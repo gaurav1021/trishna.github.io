@@ -1,2 +1,8 @@
 User-agent: *
-Disallow: /private/
+Disallow:
+
+Sitemap: https://trishnawebworks.co/sitemap.xml
+
+# Block specific directories (example)
+# Disallow: /private/
+# Disallow: /temp/
